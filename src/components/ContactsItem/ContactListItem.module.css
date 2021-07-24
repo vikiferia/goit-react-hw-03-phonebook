@@ -1,0 +1,13 @@
+.item {
+  display: flex;
+  align-items: center;
+}
+
+.itemName {
+  margin-right: 10px;
+}
+
+.itemBtn {
+  width: 50px;
+  height: 20px;
+}
